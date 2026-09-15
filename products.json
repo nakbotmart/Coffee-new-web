@@ -7,7 +7,7 @@
       "size": "16oz",
       "price": 60,
       "description": "ช็อตเข้มข้นแบบดั้งเดิม จุใจในแก้วขนาดพอดี ตื่นตัวได้ทันที",
-      "image": "images/espresso.jpg"
+      "image": "espresso-coffee-recipe022.webp"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "size": "22oz",
       "price": 75,
       "description": "เข้มข้นเต็มแก้วใหญ่ สำหรับคนที่ต้องการพลังงานเต็มพิกัดตลอดวัน",
-      "image": "images/espresso.jpg"
+      "image": "espresso-coffee-recipe022.webp"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "size": "16oz",
       "price": 70,
       "description": "กาแฟผสานนมเย็นเนียนนุ่ม หอมกลมกล่อมในทุกอึก",
-      "image": "images/latte.jpg"
+      "image": "Final_4_Iced_Honey_Cardamom_Latte.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "size": "22oz",
       "price": 85,
       "description": "ความนุ่มนวลของลาเต้แบบจุใจ อิ่มอร่อยได้นานขึ้น",
-      "image": "images/latte.jpg"
+      "image": "Final_4_Iced_Honey_Cardamom_Latte.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "size": "16oz",
       "price": 80,
       "description": "คาราเมลหวานละมุนตัดกับกาแฟเข้มข้น ลงตัวทุกชั้นรส",
-      "image": "images/latte.jpg"
+      "image": "images.jfif"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "size": "22oz",
       "price": 95,
       "description": "เพิ่มความหวานหอมคาราเมลให้เต็มอิ่มในแก้วไซซ์ใหญ่",
-      "image": "images/latte.jpg"
+      "image": "images.jfif"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "size": "16oz",
       "price": 85,
       "description": "อเมริกาโน่ผสานความสดชื่นของส้ม รสชาติแปลกใหม่ที่ต้องลอง",
-      "image": "images/fruity-coffee.jpg"
+      "image": "imagesor.jfif"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "size": "16oz",
       "price": 95,
       "description": "โคลด์บรูว์กลิ่นยูซุหอมสดชื่น ให้ความซ่าที่ไม่เหมือนใคร",
-      "image": "images/fruity-coffee.jpg"
+      "image": "yuzu-cold-brew-tips.jpg"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "size": "250ml",
       "price": 89,
       "description": "สกัดเย็นแบบคลาสสิก กลมกล่อมนุ่มลึก ดื่มง่ายทุกเวลา",
-      "image": "images/cold-brew.jpg"
+      "image": "imagesclass.jfif"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "size": "250ml",
       "price": 99,
       "description": "กลิ่นวานิลลาหอมละมุนผสานความนุ่มของโคลด์บรูว์ หวานกำลังดี",
-      "image": "images/cold-brew.jpg"
+      "image": "homemade-vanilla-sweet-cream-cold-brew.jpg"
     }
   ]
 }
