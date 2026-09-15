@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Espresso Shot 16oz",
+      "mood": "espresso",
+      "size": "16oz",
+      "price": 60,
+      "description": "ช็อตเข้มข้นแบบดั้งเดิม จุใจในแก้วขนาดพอดี ตื่นตัวได้ทันที",
+      "image": "images/espresso.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Espresso Shot 22oz",
+      "mood": "espresso",
+      "size": "22oz",
+      "price": 75,
+      "description": "เข้มข้นเต็มแก้วใหญ่ สำหรับคนที่ต้องการพลังงานเต็มพิกัดตลอดวัน",
+      "image": "images/espresso.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iced Latte 16oz",
+      "mood": "latte",
+      "size": "16oz",
+      "price": 70,
+      "description": "กาแฟผสานนมเย็นเนียนนุ่ม หอมกลมกล่อมในทุกอึก",
+      "image": "images/latte.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iced Latte 22oz",
+      "mood": "latte",
+      "size": "22oz",
+      "price": 85,
+      "description": "ความนุ่มนวลของลาเต้แบบจุใจ อิ่มอร่อยได้นานขึ้น",
+      "image": "images/latte.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Iced Caramel Macchiato 16oz",
+      "mood": "latte",
+      "size": "16oz",
+      "price": 80,
+      "description": "คาราเมลหวานละมุนตัดกับกาแฟเข้มข้น ลงตัวทุกชั้นรส",
+      "image": "images/latte.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Iced Caramel Macchiato 22oz",
+      "mood": "latte",
+      "size": "22oz",
+      "price": 95,
+      "description": "เพิ่มความหวานหอมคาราเมลให้เต็มอิ่มในแก้วไซซ์ใหญ่",
+      "image": "images/latte.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Orange Americano 16oz",
+      "mood": "fruity",
+      "size": "16oz",
+      "price": 85,
+      "description": "อเมริกาโน่ผสานความสดชื่นของส้ม รสชาติแปลกใหม่ที่ต้องลอง",
+      "image": "images/fruity-coffee.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Yuzu Cold Brew 16oz",
+      "mood": "fruity",
+      "size": "16oz",
+      "price": 95,
+      "description": "โคลด์บรูว์กลิ่นยูซุหอมสดชื่น ให้ความซ่าที่ไม่เหมือนใคร",
+      "image": "images/fruity-coffee.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Classic Cold Brew 250ml",
+      "mood": "coldbrew",
+      "size": "250ml",
+      "price": 89,
+      "description": "สกัดเย็นแบบคลาสสิก กลมกล่อมนุ่มลึก ดื่มง่ายทุกเวลา",
+      "image": "images/cold-brew.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Vanilla Cold Brew 250ml",
+      "mood": "coldbrew",
+      "size": "250ml",
+      "price": 99,
+      "description": "กลิ่นวานิลลาหอมละมุนผสานความนุ่มของโคลด์บรูว์ หวานกำลังดี",
+      "image": "images/cold-brew.jpg"
+    }
+  ]
+}

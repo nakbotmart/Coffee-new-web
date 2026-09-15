@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ยืนยันคำสั่งซื้อ — Fresh Craft Coffee</title>
+  <meta name="description" content="กรอกข้อมูลเพื่อยืนยันคำสั่งซื้อกาแฟสด Fresh Craft Coffee">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="brand-mark">Fresh Craft Coffee</a>
+      <nav>
+        <a href="product.html">เมนูทั้งหมด</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <span class="eyebrow">สั่งซื้อ</span>
+        <h1>ยืนยันคำสั่งซื้อ</h1>
+        <p>กรอกข้อมูลติดต่อของคุณ แล้วเราจะติดต่อกลับเพื่อยืนยันออเดอร์</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <form id="orderForm" class="order-form" novalidate>
+          <div class="form-field">
+            <label for="customerName">ชื่อผู้สั่ง</label>
+            <input type="text" id="customerName" name="customerName" required autocomplete="name">
+          </div>
+
+          <div class="form-field">
+            <label for="contact">ช่องทางติดต่อ (เบอร์โทร / Line ID)</label>
+            <input type="text" id="contact" name="contact" required autocomplete="tel">
+          </div>
+
+          <div class="form-field">
+            <label for="items">รายการที่สั่ง</label>
+            <input type="text" id="items" name="items" required>
+          </div>
+
+          <div class="form-field">
+            <label for="total">ยอดรวม (บาท)</label>
+            <input type="text" id="total" name="total" required inputmode="numeric">
+          </div>
+
+          <div class="form-field">
+            <label for="note">หมายเหตุเพิ่มเติม (ถ้ามี)</label>
+            <textarea id="note" name="note" rows="3"></textarea>
+          </div>
+
+          <button type="submit" class="btn">ยืนยันคำสั่งซื้อ</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      &copy; 2026 Fresh Craft Coffee
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
